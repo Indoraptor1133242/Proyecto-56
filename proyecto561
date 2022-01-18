@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <title>Nuestro mundo</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <h1 id="titulo" >Hola bienvenido, a mi mundo fotografico</h1><br><br>
+    <hr>
+    <h2 id="date" onclick=setDate()></h2>
+    <div class="seleccion-imagen">
+        <div class="estilo-seleccion">
+            <img id="1" src="https://historiadelavida.editorialaces.com/wp-content/uploads/2017/05/diseno-en-la-naturaleza-portada.jpg" alt="" />
+            <p> Al descubrir la naturaleza, te descubres a ti mismo. Maxime Legace</p>
+        </div>
+
+        <div class="seleccion-imagen">
+            <img  id="2" src="https://blog.naturlider.com/wp-content/uploads/2020/03/AdobeStock_309195144-post-dia-mundial-naturaleza.jpeg" alt="" />
+            <p>Adopta el ritmo de la naturaleza. Su secreto es la paciencia. Ralph Waldo Emerson </p>
+        </div>
+        
+        <div class="seleccion-imagen">
+        <div class="estilo-seleccion">
+            <img id="1" src="https://www.fundacionaquae.org/wp-content/uploads/2016/03/nature-1024x683.jpeg.webp" alt="" />
+            <p> Ir a las montanas es ir a casa. John Muir</p>
+        </div>
+
+        <div class="seleccion-imagen">
+            <img  id="2" src="https://services.meteored.com/img/article/la-naturaleza-el-aliado-mas-efectivo-contra-el-cambio-climatico-212311-1.jpg" alt="" />
+            <p>La naturaleza se complace con la simplicidad. Y la naturaleza no es tonta. Isaac newton </p>
+        </div>
+
+</body></html>

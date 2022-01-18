@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: azure;
+    font-size: 25x;
+}
+
+h1{
+font-family:sans-serif; 
+    color: oldlace;
+    background-color: cadetblue;
+    margin-top: 100px;
+    
+
+} 
+hr{
+    color: black;}
+
+img{
+  width:300px;
+  height:300px;
+  border-style: solid;
+border-color:#EEEEEE ;
+  border-radius: 80px;
+  padding:5px;
+}
+    
+    
+    
